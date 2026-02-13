@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment / Secrets
+.env
+.env.test
+
+# OS Files
+.DS_Store
